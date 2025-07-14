@@ -6,4 +6,6 @@ This is my first repository README.MD file
 ## Selamat Datang
 ### CAIRO UTM
 
-* star
+1. Hari Pertama
+2. Hari Kedua
+3. hari Ketiga
