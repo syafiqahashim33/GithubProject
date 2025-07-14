@@ -8,4 +8,4 @@ This is my first repository README.MD file
 
 1. Hari Pertama
 2. Hari Kedua
-3. hari Ketiga
+3. Hari Ketiga
